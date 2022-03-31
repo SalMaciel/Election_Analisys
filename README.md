@@ -13,15 +13,15 @@ The following tasks were provided to complete the election audit of a local cong
 The analisys of the election shows:
 - There were 369,711 votes cast in the election.
 - Candidates names are:
-- - Charles Casper
-- - Diana DeGette
-- - Raymond Anthony Doane
+ - Charles Casper
+ - Diana DeGette
+ - Raymond Anthony Doane
 - The candidates results were:
-- - Charles Casper received 23% of the vote and 85,213 votes.
-- - Diana DeGette received 73.8% of the vote and 272,892 votes.
-- - Raymond Anthony DeGette received 3.1% of the vote and 11,606 votes
+ - Charles Casper received 23% of the vote and 85,213 votes.
+ - Diana DeGette received 73.8% of the vote and 272,892 votes.
+ - Raymond Anthony DeGette received 3.1% of the vote and 11,606 votes
 - The winner of the election was:
-- - Diana DeGette whe received 73.8% of the vote and 272,892 votes
+ - Diana DeGette whe received 73.8% of the vote and 272,892 votes
 ## Challenge overview
 
 ## Challenge summary
