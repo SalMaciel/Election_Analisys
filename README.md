@@ -9,7 +9,7 @@ The following tasks were provided to complete the election audit of a local cong
 ## Resources
 - Data source: election_results.csv
 - Software: Python 3.10, VS Code 1.66.0
-##Summary
+## Summary
 The analisys of the election shows:
 - There were 369,711 votes cast in the election.
 - Candidates names are:
