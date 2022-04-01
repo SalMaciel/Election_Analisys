@@ -24,6 +24,6 @@ The analisys of the election shows:
     - Denver with 306,055 votes and 82.8%
 - The winner of the election was:
     - Diana DeGette with 73.8% of the vote and 272,892 votes
-## Project summary
+## Election audit summary
 The code provided in this project accurately counts and detrmines the winner of the election based on a popular vote basis. It provides detailed vote count on every candidate and county and their corresponding percentages.  
-This code could easily be used on future elections without any modifications or it could be adjusted to accomodate for more counties and candidates, and even to determine a a winner based on electoral vote.
+This code could easily be used on future elections without any modifications or it could be adjusted to accomodate for more counties and candidates, and even to determine a winner based on a different electoral system such as the electoral vote.
